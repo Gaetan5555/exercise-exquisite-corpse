@@ -2,4 +2,7 @@
 Excercice to practice git and github in team
 
 
-Title: A month before christmas
+Title: Un mois avant Noel
+
+
+Il etait une fois
